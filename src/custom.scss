@@ -1,0 +1,8 @@
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+$theme-colors:(
+    'primary': $pink-500
+);
+$bg-body:$pink-500;
+
+@import '~bootstrap/scss/bootstrap';
